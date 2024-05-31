@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sandbox\\ImageCompare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C71D2CD3-0F9E-443C-80AC-5EB95E8EBF22}|ImageCompare\\ImageCompare.csproj|d:\\sandbox\\imagecompare\\imagecompare\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71D2CD3-0F9E-443C-80AC-5EB95E8EBF22}|ImageCompare\\ImageCompare.csproj|solutionrelative:imagecompare\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71D2CD3-0F9E-443C-80AC-5EB95E8EBF22}|ImageCompare\\ImageCompare.csproj|D:\\Sandbox\\ImageCompare\\imagecompare\\python\\screencapture.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C71D2CD3-0F9E-443C-80AC-5EB95E8EBF22}|ImageCompare\\ImageCompare.csproj|solutionrelative:imagecompare\\python\\screencapture.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71D2CD3-0F9E-443C-80AC-5EB95E8EBF22}|ImageCompare\\ImageCompare.csproj|D:\\Sandbox\\ImageCompare\\imagecompare\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C71D2CD3-0F9E-443C-80AC-5EB95E8EBF22}|ImageCompare\\ImageCompare.csproj|solutionrelative:imagecompare\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScreenCapture.py",
+              "DocumentMoniker": "D:\\Sandbox\\ImageCompare\\ImageCompare\\Python\\ScreenCapture.py",
+              "RelativeDocumentMoniker": "ImageCompare\\Python\\ScreenCapture.py",
+              "ToolTip": "D:\\Sandbox\\ImageCompare\\ImageCompare\\Python\\ScreenCapture.py",
+              "RelativeToolTip": "ImageCompare\\Python\\ScreenCapture.py",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-31T02:14:14.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Sandbox\\ImageCompare\\ImageCompare\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ImageCompare\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Sandbox\\ImageCompare\\ImageCompare\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ImageCompare\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAewIsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:09:43.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Sandbox\\ImageCompare\\ImageCompare\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ImageCompare\\MainWindow.xaml",
+              "ToolTip": "D:\\Sandbox\\ImageCompare\\ImageCompare\\MainWindow.xaml",
+              "RelativeToolTip": "ImageCompare\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-31T02:09:06.864Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
